@@ -1,4 +1,4 @@
 <?php
-$home = file_get_contents('https://raw.githubusercontent.com/pentahobrasil/pentahoday2019/master/index-git.html');
+$home = file_get_contents('http://www.ambientelivre.com.br/saas/evento/sitepentahoday2019/index-git.html');
 echo $home;
 ?>
