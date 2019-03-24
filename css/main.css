@@ -71,7 +71,7 @@ h3 {
 	background-repeat: no-repeat;
 	background-position: right 15px center;
 	background-size: 26px;
-    background-attachment: scroll;
+        background-attachment: scroll;
 	padding: 10px;
 	padding-left:20px;
   	-webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 2px rgba(0, 0, 0, 0.05);
@@ -87,7 +87,7 @@ h3 {
 	background-repeat: no-repeat;
 	background-position: right 15px center;
 	background-size: 35px;
-    background-attachment: scroll;
+        background-attachment: scroll;
 }
 
 
@@ -99,7 +99,7 @@ h3 {
 	background-repeat: no-repeat;
 	background-position: right 15px center;
 	background-size: 35px;
-    background-attachment: scroll;
+        background-attachment: scroll;
 }
 
 
@@ -113,7 +113,7 @@ h3 {
 	background-repeat: no-repeat;
 	background-position: right 15px center;
 	background-size: 35px;
-    background-attachment: scroll;
+        background-attachment: scroll;
 }
 
 .btn.register,
@@ -139,7 +139,7 @@ h3 {
 	background-repeat: no-repeat;
 	background-position: right 15px center;
 	background-size: 26px;
-    background-attachment: scroll;
+        background-attachment: scroll;
 }
 
 .btn.pdf:hover,
@@ -152,7 +152,7 @@ h3 {
 	background-repeat: no-repeat;
 	background-position: right 15px center;
 	background-size: 35px;
-    background-attachment: scroll;
+        background-attachment: scroll;
 }
 
 .roundBlue {
@@ -452,8 +452,6 @@ hr {
 	margin-top: 30px;
 }
 
-
-
 #number4, #number5, #number6, #firstRegister, #secondRegister, #thirdRegister, #transmissao {
 	opacity: 0;
 }
@@ -513,8 +511,6 @@ strong {
 	font-weight: 600;
 }
 
-/************************INTERVENCAO_JOANA**************************/
-
 .Grey {
 	background: #002054;
 	padding: 20px 0px;
@@ -558,7 +554,7 @@ div.date {
 }
 
 #oradores {
-	background-image: url(../img/oradores.png);
+	background-image: url(../img/oradores2019/oradores.png);
 	background-repeat: no-repeat;
 	background-position: 180px 14px;
 	padding-bottom: 16px;
@@ -947,11 +943,24 @@ margin-left:-65px;
         margin-right: 500px;
 }
 
+.colaboracao {
+	font-size: 10px;
+	line-height: 10px;
+	width: 65px;
+        margin-left: -140px;
+}
+
 .realizacao {
 	font-size: 10px;
 	line-height: 10px;
 	width: 65px;
-        margin-left: -20px;
+        margin-left: 40px;
+}
+
+.hospedado{
+	font-size: 10px;
+	line-height: 10px;
+	text-align:center;
 }
 
 .bronze {
@@ -1010,17 +1019,25 @@ margin-left:-65px;
 	margin-left: 165px;
 }
 
-.linkLogoDelphos{
+.linkLogoKnow{
 	width:100px;
 	margin-top: -6px;
 	margin-left: 18px;
 }
 
-.linkLogoAmbiente{
+.linkLogoMentors{
 	width:95px;
-	margin-right: 35px;
-	margin-left: 140px;
+	margin-right: 5px;
+	margin-left: 5px;
 }
+
+
+.linkLogoAmbiente{
+	width:115px;
+	margin-right: 5px;
+	margin-left: 100px;
+}
+
 
 .linkLogoGrupo{
 	width:68px;
@@ -1117,7 +1134,6 @@ a.programa:hover {
 	text-align:left;
 	margin-bottom:100px;
 }
-
 
 #transmissao {
 	margin-top: 50px;
