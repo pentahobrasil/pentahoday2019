@@ -76,9 +76,9 @@ Estamos com as seguintes trilhas:
 <ul>Assuntos Emergentes</ul>
 <ul>Mini-Curso</ul>
 <BR><BR><BR>
-Para submeter uma pelestra basta submeter seu trabalho em nosso sistema até o dia 24 de Fevereiro de 2019.
+Para submeter uma pelestra basta submeter seu trabalho em nosso sistema até o dia 29 de Março de 2019.
 </br>
-As confirmações serão avisadas na primeira quinzena de Março.
+As confirmações serão avisadas na primeira quinzena de Abril.
 </BR>
 <h2>
 <a href="http://www.ambientelivre.com.br/saas/evento/pentahoday2019"> Acesse o sistema de submissão de palestras</a>
