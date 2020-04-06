@@ -449,7 +449,7 @@ hr {
 }
 
 .headerLinksRow {
-	margin-top: 30px;
+	margin-top: 12px;
 }
 
 #number4, #number5, #number6, #firstRegister, #secondRegister, #thirdRegister, #transmissao {
@@ -617,7 +617,6 @@ margin-top: 20px;
 margin-top: 30px;
 }
 
-
 .oradores1{
 margin-top: 0px;
 padding-top:30px;
@@ -680,6 +679,20 @@ margin-left:-65px;
   margin-left: 90px;
 }
 
+.oradores10{
+  position: absolute;
+  margin-top: -33px;
+  width: 1080px;
+  margin-left: 0px;
+}
+
+.oradores11{
+  position: absolute;
+  margin-top: 60px;
+  width: 800px;
+  margin-left: 275px;
+}
+
 .oradores{
   width: 160px;
 }
@@ -738,17 +751,17 @@ margin-left:-65px;
 }
 
 .area2 {
-    -webkit-transform: rotate(315deg);
-    -moz-transform: rotate(315deg);
-    -o-transform: rotate(315deg);
-     transform: rotate(315deg);
+	-webkit-transform: rotate(315deg);
+	-moz-transform: rotate(315deg);
+	-o-transform: rotate(315deg);
+	transform: rotate(315deg);
 	font-size: 11px;
-    font-weight: 400;
-    text-align:center;		  
+	font-weight: 400;
+	text-align:center;		  
 	width: 120px;
-    height: 120px;
+	height: 120px;
 	margin-top:40px;
-    position: absolute; 
+	position: absolute; 
 	margin-left:40px;
 	margin-right:40px;
 	line-height: 1.5em;
@@ -925,6 +938,18 @@ margin-left:-65px;
 
 #picture64 { background: url(../img/orador64.png) no-repeat; }
 
+#picture65 { background: url(../img/orador65.png) no-repeat; }
+
+#picture66 { background: url(../img/orador66.png) no-repeat; }
+
+#picture67 { background: url(../img/orador67.png) no-repeat; }
+
+#picture68 { background: url(../img/orador68.png) no-repeat; }
+
+#picture69 { background: url(../img/orador69.png) no-repeat; }
+
+#picture70 { background: url(../img/orador70.png) no-repeat; }
+
 
 .linkLogo2 {
 	padding-top: 18px;
@@ -933,7 +958,7 @@ margin-left:-65px;
 .designBuilt {
 	font-size: 10px;
         height: 25px;
-	width:150px;
+	width:300px;
 }
 
 .apoio {
@@ -973,15 +998,27 @@ margin-left:-65px;
 .prata {
 	font-size: 10px;
 	line-height: 10px;
-	width: 120px;
-        margin-right: 130px;
+	width: 200px;
+        margin-right: 10px;
+}
+
+
+.patrocinador_prata {
+	line-height: 10px;
+	width: 90px;
+        margin-right: 5px;
+	margin-top:10px;
+}
+
+.patrocinador_lta-rh {
+	margin-top:20px;
 }
 
 .ouro {
 	font-size: 10px;
 	line-height: 10px;
-	width: 35px;
-        margin-right: 410px;
+	width: 95px;
+        margin-right: 590px;
 }
 
 .linkLogoI{
@@ -994,33 +1031,31 @@ margin-left:-65px;
 	margin-top:80px;
 }
 
-.linkLogoOpenInn{
-	width:180px;
-	margin-right: 1px;
-	padding-left: 2px;
+.logoDiamante {
+    width: 165px;
+    margin-right: 25px;
 }
 
-.linkLogoUp{
-	width:150px;
+.linkLogoOpenInn{
+	width:160px;
+	margin-top: 20px;
 }
 
 .linkLogoOn{
 	width: 155px;
+	margin-right: 1px;
+	padding-left: 2px;
 }
 
 .linkLogoJebs{
-	width:100px;
-	margin-left: 150px;
-}
-
-.linkLogoKnow{
-	width:100px;
-	margin-top: -6px;
-	margin-left: 290px;
+	width:155px;
+	margin-left: 15px;
+ 	margin-right: 170px;
+	margin-top: 12px;
 }
 
 .linkLogoMentors{
-	width:95px;
+	width:90px;
 	margin-right: 5px;
 	margin-left: 5px;
 }
@@ -1063,10 +1098,6 @@ margin-left:-65px;
 	margin-right: 150px;
 }
 
-.linkLogoPentaho{
-	width:92px;
-	margin-top: 3px;
-}
 
 .tabs{
 	list-style: none;
@@ -1093,18 +1124,17 @@ margin-left:-65px;
 
 a.programa {
 	/*color:#80959e;*/
-		color:#e2e6e9;
-		text-decoration:none;
+	color:#e2e6e9;
+	text-decoration:none;
 }
 
 a.programa:hover {
-	color:#fff;
-	display: inline;
+    color:#fff;
+    display: inline;
     border: solid #ced30b;
     border-width: 0px 0px 10px 0px;
     padding-bottom: 18px;
-	text-decoration:none;
-	
+    text-decoration:none;
 }
 
 .auditorio{
